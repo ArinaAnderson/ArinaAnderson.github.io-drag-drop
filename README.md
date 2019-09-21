@@ -1,1 +1,2 @@
-# ArinaAnderson.github.io-drag-drop
+permalink
+/index.html
